@@ -1,5 +1,7 @@
 html {
     font-family: sans-serif;
+    background-color: #EAEEF5;
+    background-image: url(https://i.imgur.com/VsQArrU.gif)
 } 
     .pomodoros-estimate {
         font-weight: bold;
@@ -9,19 +11,39 @@ html {
         padding: 1px 5px;
     }
     #add-new-todo-button{
-         font-size: 15px;
-         text-align: center;
-         color: #FFF;
-         outline: none;
-         border-style: none;
-         padding: 5px;
-         border-radius: 3px;
-         box-shadow: 2px 2px 1px #90A4AE ;
-         display: block;
-         background-color: #03A9F4 ;
-         margin-top: 10px;
+    font-size: 15px;
+     text-align: center;
+     color: #FFF;
+     outline: none;
+     border-style: none;
+     padding: 10px;
+     border-radius: 3px;
+     box-shadow: 2px 2px 1px #90A4AE ;
+     display: block;
+     background-color: #03A9F4 ;
+     margin-top: 10px;
+     margin:auto;
 }
     #add-new-todo-button:active{
         box-shadow: 10px 10px 10px #90A4AE;
+}
+#guy{
+    background-color: rgba(255,255,255,0.5);
+    text-align-last: center;
+    font-size: 20px;
+    font-weight: bolder
+}
+
+h1{
+    color: black;
+    text-align: center;
+    background-color: rgba(255,255,255,0.5);
+    font-family: fantasy;
+}
+    body{
+        color: black;
     }
     
+a{
+    color: #0E3069;
+}
