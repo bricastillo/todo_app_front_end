@@ -1,3 +1,11 @@
-body{
-    color: #0E3069;
+html {
+    font-family: sans-serif;
+    background-color: #EAEEF5;
+    background-image: url(https://i.imgur.com/SvnuN4M.png)
+}
+#bob{
+    background-color: rgba(255,255,255,0.5);
+    text-align-last: center;
+    font-size: 20px;
+    font-weight: bolder
 }
