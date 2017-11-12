@@ -1,0 +1,27 @@
+html {
+    font-family: sans-serif;
+} 
+    .pomodoros-estimate {
+        font-weight: bold;
+        color: #35A7DC;
+        background-color: #BFD3DC;
+        border-radius: 50px;
+        padding: 1px 5px;
+    }
+    #add-new-todo-button{
+         font-size: 15px;
+         text-align: center;
+         color: #FFF;
+         outline: none;
+         border-style: none;
+         padding: 5px;
+         border-radius: 3px;
+         box-shadow: 2px 2px 1px #90A4AE ;
+         display: block;
+         background-color: #03A9F4 ;
+         margin-top: 10px;
+}
+    #add-new-todo-button:active{
+        box-shadow: 10px 10px 10px #90A4AE;
+    }
+    
